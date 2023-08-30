@@ -1,0 +1,38 @@
+@media(min-width:100px) and (max-width:767px){
+	.container{
+		width:100%;
+	}
+	.logo{
+		padding-left:15px;
+	}
+	.centre{
+		width:100%;
+		box-shadow:none;
+	}
+	.form_list {
+		display:none;
+	}
+}
+@media(min-width:768px) and (max-width:998px){
+	.container{
+		width:100%;
+	}
+	.logo{
+		padding-left:15px;
+	}
+	.centre{
+		width:100%;
+		box-shadow:none;
+	}
+	input{
+		width:100%;
+	}
+	.form_list {
+		display:none;
+	}
+}
+@media(max-width:999px){
+		.container{
+		width:100%;
+	}
+}
